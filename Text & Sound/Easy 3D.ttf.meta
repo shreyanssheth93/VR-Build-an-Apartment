@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d5b2e3bbd06eb3142a62781385973a9d
+timeCreated: 1527290844
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Easy 3D
+  fontNames:
+  - Easy 3D
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
